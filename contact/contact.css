@@ -1,0 +1,65 @@
+html { 
+  background: url(../images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#head {
+	position: fixed;
+	top:0%;
+	left:0%;
+	width: 100%;
+	
+	}
+
+#nav {
+	position: fixed;
+ 	top: 8.5%;
+ 	left: 0%;
+	height: 30px;
+	width: 100%;
+	background: url(../images/navbar.png)
+    }
+    
+#ch {
+	position: absolute;
+	top: -30%;
+	left: 44%;
+	}
+	
+.contact {
+	top: 0%;
+	margin-left: 42%;
+	margin-right: 15%;
+	}
+	
+.about {
+	margin-left: 0%;
+	margin-right: 3%;
+	}
+	
+.gallery {
+	margin-right: 3%;
+	}
+	
+.signup {
+	margin-right: 3%;
+	}
+	
+.home {
+	margin-right: 3%;
+	}
+    
+#homenav {
+	display: inline;
+	top: 0%;
+	}
+	
+#tabs {
+	position: absolute;
+	margin-left: 65%;
+	width: 100%;
+	top: 4%;
+	}
